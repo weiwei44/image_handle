@@ -33,4 +33,12 @@ object GraySetHandle{
             pixels[index] = newColor
         }
     }
+
+    //生成灰度图
+    fun handleSet1(pixels:IntArray){
+        for(index in 0 until pixels.size){
+
+        }
+    }
+
 }
